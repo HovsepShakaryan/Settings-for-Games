@@ -8,7 +8,9 @@
 
 #import <UIKit/UIKit.h>
 
-@interface Settings : UIView
+@interface Settings : UIView{
+    
+}
 
 
 +(id)settings;
